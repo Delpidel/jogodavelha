@@ -1,0 +1,1 @@
+Olá! Este trabalho teve única e exclusiva função de me ajudar a entender o funcionamento do JavaScript e praticar CSS. Créditos ao canal dicasparadevs de Felipe Rocha, do qual clonei os códigos e fiz pequenas alterações de estilização do meu gosto.
